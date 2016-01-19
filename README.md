@@ -1,2 +1,2 @@
-# s2forums-indexer
-Indexer for the Scratch Forums search engine
+# Indexer
+This is the script that does the indexing of the forums.
